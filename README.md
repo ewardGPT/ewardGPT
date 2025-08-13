@@ -1,8 +1,12 @@
 <h1>Hi, I'm Ervin! <br/><a href="https://github.com/ewardGPT">Programmer</a>, <a href="https://www.linkedin.com/in/ervward/"> Cybersecurity</a></h1>
 
-<h2>👨‍💻 IT/Cybersecurity/Programming Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b>OptiPlex 9020 Revive — Arch Linux Hyperland Workstation Build</b>
+
+<h2>🤖 Cyber Security Projects:</h2>
+
+<h2>💻 Programming Projects:</h2>
 
 <h2>📺 Project Videos</h2>
 
