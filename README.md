@@ -6,23 +6,23 @@
 
 <h2>🤖 Cyber Security Projects:</h2>
 
-- Pi-hole Network-Wide Ad Blocking
+- <b>Pi-hole Network-Wide Ad Blocking</b>
 
-- Personal Cybersecurity VPN with DNS Filtering
+- <b>Personal Cybersecurity VPN with DNS Filtering</b>
 
-- Setting Up Firewall on Arch Linux and Enable/Disable Port (Whitelisting and Blacklisting)
+- <b>Setting Up Firewall on Arch Linux and Enable/Disable Port (Whitelisting and Blacklisting)</b>
 
 <h2>💻 Programming Projects:</h2>
 
-- [OpenCue](https://github.com/ewardGPT/OpenCue)
+- <b>[OpenCue](https://github.com/ewardGPT/OpenCue)</b>
 
 <h2>📺 Project Videos</h2>
 
-- [OptiPlex 9020 Revive — Arch Linux Hyperland Workstation Build](https://github.com/ewardGPT/OptiPlex-9020-Revive-Arch-Linux-Hyperland-Workstation-Build)
+- <b>[OptiPlex 9020 Revive — Arch Linux Hyperland Workstation Build](https://github.com/ewardGPT/OptiPlex-9020-Revive-Arch-Linux-Hyperland-Workstation-Build)</b>
 
 <h2> 📄 Certifications </h2>
 
-- Google IT Support Specialist
+- <b>Google IT Support Specialist</b>
 
 <h2> 🤳 Connect with me:</h2>
 
