@@ -6,6 +6,12 @@
 
 <h2>🤖 Cyber Security Projects:</h2>
 
+-Pi-hole Network-Wide Ad Blocking
+
+-Personal Cybersecurity VPN with DNS Filtering
+
+-Setting Up Firewall on Arch Linux and Enable/Disable Port (Whitelisting and Blacklisting)
+
 <h2>💻 Programming Projects:</h2>
 
 - [OpenCue](https://github.com/ewardGPT/OpenCue)
