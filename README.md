@@ -8,6 +8,8 @@
 
 <h2>💻 Programming Projects:</h2>
 
+- OpenCue
+
 <h2>📺 Project Videos</h2>
 
 - [OptiPlex 9020 Revive — Arch Linux Hyperland Workstation Build](https://github.com/ewardGPT/OptiPlex-9020-Revive-Arch-Linux-Hyperland-Workstation-Build)
