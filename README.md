@@ -8,7 +8,7 @@
 
 <h2>💻 Programming Projects:</h2>
 
-- OpenCue
+- [OpenCue](https://github.com/ewardGPT/OpenCue)
 
 <h2>📺 Project Videos</h2>
 
