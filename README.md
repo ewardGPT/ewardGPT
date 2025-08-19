@@ -12,6 +12,8 @@
 
 - <b>Setting Up Firewall on Arch Linux and Enable/Disable Port (Whitelisting and Blacklisting)</b>
 
+- <b>[TryHackMe](https://github.com/ewardGPT/tryhackme-blue-team)</b>
+
 <h2>💻 Programming Projects:</h2>
 
 - <b>[OpenCue](https://github.com/ewardGPT/OpenCue)</b>
