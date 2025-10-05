@@ -17,6 +17,7 @@
 <h2>💻 Programming Projects:</h2>
 
 - <b>[OpenCue](https://github.com/ewardGPT/OpenCue)</b>
+- <b>[AI Judge Game](https://github.com/ewardGPT/AI-Judge-Game)</b>
 
 <h2>📺 Project Videos</h2>
 
