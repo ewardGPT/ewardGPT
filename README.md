@@ -29,7 +29,7 @@
 | Project | Description | Tech |
 |:--- |:--- |:--- |
 | **[Home Cloud Observability](https://github.com/ewardGPT/home-cloud-observability)** | **Production-Grade Monitoring Stack**<br>Deployed Prometheus, Grafana, Loki, and Uptime Kuma on Proxmox for centralized logging and 20+ service health checks. | ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) |
-| **[AzureTrainer](https://github.com/ewardGPT/AzureTrainer)** | **Cloud Training Automation**<br>Automated environment provisioning and training modules for Microsoft Azure fundamentals. | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| **[AzureTrainer](https://github.com/ewardGPT/AzureTrainer)** | **Cloud Training Automation**<br> Automated Azure Portfolio Website Test | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | **[OptiPlex 9020 Revive](https://github.com/ewardGPT/OptiPlex-9020-Revive-Arch-Linux-Hyperland-Workstation-Build)** | **Arch Linux Workstation Engineering**<br>Complete revival and modernization of enterprise hardware into a high-performance developer workstation. | ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white) ![Hyperland](https://img.shields.io/badge/Hyperland-00A4CC?logo=linux&logoColor=white) |
 
 <br />
